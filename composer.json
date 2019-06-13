@@ -1,0 +1,20 @@
+{
+    "name": "2rd-usa/queen-of-the-south-season-4-episode-2-full",
+    "description": "Watch Queen of the South Season 4 Episode 2 Online for Free Putlocker S02E13 WATCH FULL EPISODES NOW (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["Queen of the South Season 4 Episode 2 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/MFb5oN39Sd",
+            "homepage": "https://t.co/MFb5oN39Sd",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
